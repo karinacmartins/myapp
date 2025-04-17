@@ -26,7 +26,7 @@ O TechTaste foi desenvolvido durante a imersão mobile da Alura, com o seguinte 
 
 ## Design
 
-O design do TechTaste foi criado no Figma. Você pode acessá-lo [aqui](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f).
+O design do TechTaste foi criado no Figma. Você pode acessá-lo [aqui](https://tech-taste-dev.web.app/).
 
 ## Visualização no Navegador e DevTools
 
