@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/fonts/MaterialIcons-Regular.otf": "3a2cf98ca0b9c97bd0ac9f29663dab4c",
+const RESOURCES = {"assets/fonts/MaterialIcons-Regular.otf": "d259da3d8fb289f014755eaeac3f707e",
 "assets/assets/dishes/default.png": "5bbc7e65473a7d48ef6ecc1ad9d5e9cd",
 "assets/assets/others/visa.png": "ecd1f2d7cdb379d8534e12d263e2b599",
 "assets/assets/others/star.png": "7c5fe617d85b83b0d4774307ca0eece3",
@@ -27,9 +27,9 @@ const RESOURCES = {"assets/fonts/MaterialIcons-Regular.otf": "3a2cf98ca0b9c97bd0
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "8cb8ba46d256455b019d1f2317ed9ae5",
-"assets/NOTICES": "1c4bd87d6d3edf160b6e2c770a30f107",
-"flutter_bootstrap.js": "29844c642a89ffb4c323b412470be9c1",
-"main.dart.js": "4bd5b79b7505c094fd86e6d58ef10155",
+"assets/NOTICES": "4aeefbb00040d3dabde0bb9d5c705b7b",
+"flutter_bootstrap.js": "fa70613bfb6224059f3782ca60671e58",
+"main.dart.js": "2ac715fcc7e871434835536902bdc0b0",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
