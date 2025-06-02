@@ -2,6 +2,10 @@
 
 O TechTaste é um aplicativo de delivery de comida desenvolvido durante a imersão mobile da Alura, em apenas 3 aulas. Este projeto tem como objetivo fornecer uma interface intuitiva e eficiente para que os usuários possam explorar restaurantes, categorias de comida e realizar pedidos de forma simples e rápida.
 
+<p align="center">
+  <img src="/print.png" alt="Screenshot do Projeto" width="600"/>
+</p>
+
 ## Funcionalidades
 * **Restaurantes:** Explore uma variedade de restaurantes disponíveis no aplicativo.
 * **Categorias:** Navegue por diferentes categorias de comida para encontrar seus pratos favoritos.
